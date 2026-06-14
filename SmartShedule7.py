@@ -1,3 +1,4 @@
+# Authentication system completed
 import json
 import os
 import hashlib
