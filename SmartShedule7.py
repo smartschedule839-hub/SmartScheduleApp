@@ -1,4 +1,5 @@
 # Authentication system completed
+# Schedule management implemented
 import json
 import os
 import hashlib
